@@ -1,6 +1,6 @@
 # Write-Ups
 
-See separate Write-Up repos:
+See separate Write-Up repositories:
 
 1. [Write-Up 1](https://github.com/donald-pinckney/Write-Up-1)
 2. [Write-Up 2](https://github.com/donald-pinckney/Write-Up-2)
